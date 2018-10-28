@@ -138,7 +138,7 @@
             <param>testDuration=IPERF3_RUNTIME_IN_SECONDS</param>
             <param>testType=udp</param>
             <param>max_parallel_connections_per_instance=64</param>
-            <param>connections=(1 2 4 8 16 32 64 128 256 512 1024)</param>
+            <param>connections=(64)</param>
             <param>bufferLengths=(1024 8192)</param>
             <param>IPversion=4</param>
         </TestParameters>
