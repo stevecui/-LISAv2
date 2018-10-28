@@ -29,7 +29,7 @@
         <TestParameters>
             <param>testDuration=NTTTCP_RUNTIME_IN_SECONDS</param>
             <param>testType=tcp</param>
-            <param>testConnections="64"</param>
+            <param>testConnections="128"</param>
         </TestParameters>
         <Platform>Azure</Platform>
         <Category>Performance</Category>
